@@ -1,0 +1,4 @@
+参考链接
+https://www.jianshu.com/p/f65806249ccd
+链接相关bug  
+  gradle cpmpileJava  而是 gradle compileJava
